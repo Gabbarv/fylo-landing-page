@@ -1,0 +1,243 @@
+html,body{
+  width: 100%;
+  
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  text-align: center;
+
+}
+.top{
+  background-color: hsl(217, 28%, 15%);
+  height: auto;
+  background-image: url(images/bg-curvy-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  width: 100%;
+}
+.logo{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  top: 15px;
+}
+.menur{
+  display: inline-block;
+  position: absolute;
+  right: 70px;
+  top: 20px;
+
+}
+.menuc{
+  display: inline-block;
+  padding-left: 20px;
+}
+.introimg{
+  width: 60%;
+  margin-top: 50px;
+
+}
+.hone{
+  color: #fff;
+  width: 50%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2.5rem;
+}
+.pone{
+  color: #fff;
+  width: 50%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn{
+  width: 25%;
+  background-color: hsl(176, 68%, 64%);
+  border-radius: 20px;
+  height: 40px;
+  border-style: hidden;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+.middle{
+  background-color: hsl(218, 28%, 13%);
+  padding-top: 50px;
+}
+.htwo{
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+
+}
+.ptwo{
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+.one{
+
+}
+.r{
+  padding-top: 50px;
+}
+.middlemain{
+  width: 80%;
+}
+.rone{
+
+}
+.staypro{
+  width: 80%;
+}
+.hthree{
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+
+}
+.pthree{
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+.rtwo{
+  text-align: left;
+  width: 40%;
+  padding-top: 50px;
+}
+.lower-middle{
+  padding-top: 100px;
+}
+.profile{
+    background-color: hsl(217, 28%, 15%);
+    margin-left: 20px;
+    text-align: left;
+    padding: 2%;
+
+}
+.l-middle{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  padding-bottom: 150px;
+}
+.profileimg{
+  width: 10%;
+  border-radius: 50%;
+  display: inline-block;
+  padding-bottom: 15px;
+}
+.pfour{
+  color: #fff;
+  text-align: left;
+
+}
+.prointro{
+  display: inline-block;
+  line-height: .4;
+  padding-left: 10px;
+}
+
+
+.hfive{
+  color: #fff;
+
+}
+.pfive{
+  color: #fff;
+}
+.btn-one{
+  border-radius: 25px;
+  height: 40px;
+  padding: 1%;
+  border: none;
+  background-color:  hsl(176, 68%, 64%);
+
+}
+.email-input{
+  width: 60%;
+  border-radius: 25px;
+  height: 40px;
+  border: none;
+  outline: none;
+
+}
+
+.email-main{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: hsl(217, 28%, 15%);
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3%;
+
+}
+.lower-bottom{
+  background-color: hsl(216, 53%, 9%);
+  width: 100%;
+
+}
+.logoimg{
+  padding-top: 170px;
+padding-right: 1000px;
+}
+.locimg{
+  float: left;
+  display: inline-block;
+  padding-top: 8px;
+}
+
+.psix{
+  color: #fff;
+  text-align: left;
+  padding-left: 20px;
+
+
+}
+.pseven{
+  color: #fff;
+  display: inline-block;
+}
+.emailimg{
+  display: inline-block;
+}
+.phoneimg{
+  display: inline-block;
+}
+.l-lower-bottom{
+  padding-top: 100px;
+  padding: 2%;
+}
+p a{
+  text-decoration: none;
+  color: #fff;
+}
+p a:hover{
+  color: #fff;
+  text-decoration: underline;
+}
+.em{
+  background-color: hsl(218, 28%, 13%);
+  height: 120px;
+
+}
+.emtwo{
+  padding-top: initial;
+}
+#lbl{
+  color: hsl(0, 100%, 63%);
+  padding-right: 300px;
+   visibility: hidden;
+}
+@media only screen and (max-width: 600px) {
+  .btn-one{
+    margin-top: 30px;
+  }
+
+}
